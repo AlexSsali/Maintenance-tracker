@@ -1,24 +1,25 @@
 
 div.container{
     width:100%;
-    border: 1px solid red;
+    border:auto;
 }
 header{
-    padding:30px;
-    color:blue;
-    background-color:gray;
+    padding:17px;
+    color:green;
+    background-color:lightseagreen;
     
     text-align:center;
 }
 footer{
-    background-color:forestgreen;
+    background-color:rgb(108, 165, 108);
     text-align:center;
     padding:10px;
 }
 .center{
+    padding:30px;
     margin:2px;
-    font-size:20px;
+    font-size:17px;
     text-align:center;
-    background-color:khaki;
+    background-color:rgb(122, 158, 224);
     
 }
