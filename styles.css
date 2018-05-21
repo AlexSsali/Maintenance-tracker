@@ -1,0 +1,24 @@
+
+div.container{
+    width:100%;
+    border: 1px solid red;
+}
+header{
+    padding:30px;
+    color:blue;
+    background-color:gray;
+    
+    text-align:center;
+}
+footer{
+    background-color:forestgreen;
+    text-align:center;
+    padding:10px;
+}
+.center{
+    margin:2px;
+    font-size:20px;
+    text-align:center;
+    background-color:khaki;
+    
+}
